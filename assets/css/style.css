@@ -1,0 +1,41 @@
+.box{
+height: 100vh;
+width: 100%;
+background-color: #900C3E;
+}
+.box .primera-fila .titulo{
+	font-family: 'Indie Flower', cursive;
+	color:#ffffff;
+	text-align: center;
+	padding: 5px;
+}
+
+.box .segunda-fila{
+background-color: #900C3E;
+	text-align: center;
+}
+
+.box .segunda-fila .primera-columna a{
+height: auto;
+width: 100%;
+background-color: #900C3E;
+border:none;
+
+}
+.box .segunda-fila .primera-imagen{
+	height: 70vh;
+	width:500px;
+	border:5px solid #ffffff;
+	border-radius: 5%; 
+}
+
+.box .tercera-fila{
+ padding-left: 140px;
+
+
+}
+.box .tercera-fila i{
+font-size: 35px;
+color:#FF5733;
+}
+
